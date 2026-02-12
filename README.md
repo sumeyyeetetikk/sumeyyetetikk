@@ -68,16 +68,10 @@ ve yazılım dünyasının hızına ayak uydurmayı seviyorum.
 
 ---
 
-## 📊 GitHub İstatistiklerim
+### 📊 Contribution Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumeyyeetetik&show_icons=true&theme=tokyonight" />
-</p>
+<img alt="Sümeyye Nur'un Aktivite Grafiği" src="https://github-readme-activity-graph.vercel.app/graph/?username=sumeyyenur&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sumeyyeetetik&show_icons=true&theme=tokyonight" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyeetetik&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
