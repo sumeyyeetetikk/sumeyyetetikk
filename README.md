@@ -68,7 +68,7 @@ ve yazılım dünyasının hızına ayak uydurmayı seviyorum.
 
 ---
 
-### 📊 Contribution Stats
+### 📊 İstatistiklerim
 
 <img alt="Sümeyye Nur'un Aktivite Grafiği" src="https://github-readme-activity-graph.vercel.app/graph/?username=sumeyyenur&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
